@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Agencia
+comment1.params=
+comment1.target=int\ getCodigo()
+comment10.params=
+comment10.target=boolean\ renderCP()
+comment11.params=
+comment11.target=boolean\ manutencaoCP()
+comment2.params=
+comment2.target=java.lang.String\ getNumero()
+comment3.params=
+comment3.target=java.util.List\ getContas()
+comment4.params=
+comment4.target=double\ getTotal()
+comment5.params=codigo
+comment5.target=void\ setCodigo(int)
+comment6.params=numero
+comment6.target=void\ setNumero(java.lang.String)
+comment7.params=contas
+comment7.target=void\ setContas(java.util.List)
+comment8.params=total
+comment8.target=void\ setTotal(double)
+comment9.params=
+comment9.target=double\ total()
+numComments=12
